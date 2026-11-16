@@ -1,0 +1,1 @@
+Accounting & Reporting	Bookkeeping, Financial Statements, Schedule III, Ind AS, Accounting Standards, Consolidation, Financial Statement Analysis, MIS Reporting, XBRL

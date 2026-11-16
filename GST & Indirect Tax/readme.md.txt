@@ -1,0 +1,1 @@
+AI, Data & Automation	Excel Automation, Power BI, Python for CAs, AI Agents, Data Analytics, RPA, Document Processing, AI-Powered Workflows

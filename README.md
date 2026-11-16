@@ -112,7 +112,7 @@ Do not upload client-confidential information or personal data to this public re
 Use **GitHub Issues** to report documentation gaps, bugs, suggested enhancements, or security concerns that are safe to disclose publicly. Do not publish exploit details, credentials, or confidential information in an Issue; contact the maintainers privately instead.
 
 **Initiative:** ICAI AI Committee  
-**Contact:** ai@icai.in
+**Contact:** ai@icai.org
 
 ---
 
